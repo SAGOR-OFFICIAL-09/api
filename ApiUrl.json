@@ -2,6 +2,7 @@
   "author": "SAGOR",
   "apis": {
     "pinterest": "https://pinterest-api-sagor.vercel.app",
-    "emojimix": "https://emojimix-api-sagor.vercel.app"
+    "emojimix": "https://emojimix-api-sagor.vercel.app",
+    "video": "https://video-api-sagor.vercel.app"
   }
 }
