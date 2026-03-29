@@ -6,6 +6,7 @@
     "video": "https://video-api-sagor.vercel.app",
     "alldl": "https://media-downloader-api-sagor.vercel.app",
     "ai": "https://ai-api-sagor.vercel.app",
-    "ytdl": "https://ytdl-api-sagor.vercel.app"
+    "ytdl": "https://ytdl-api-sagor.vercel.app",
+    "x": "https://xxx-api-nx.onrender.com"
   }
 }
